@@ -1,0 +1,3 @@
+hii this is hari 
+i am from ece 
+i am learning git 
